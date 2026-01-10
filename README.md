@@ -1,26 +1,24 @@
 # Interesting Projects
 
-Interesting new projects and tools worth exploring.
+Interesting tools, services, and projects worth exploring. 
 
 ## 🚀 Development Tools
 
 ### [zed.dev](https://zed.dev/)
 **Minimalist Code Editor**
-- Fast, lightweight code editor
+- Fast, lightweight code editor written in Rust
 - Jupyter Notebooks not supported yet, but on the roadmap
-- Modern development experience
 
 ### [z.ai](https://z.ai/subscribe)
 **AI LAB**
-- GLM 4.7 - Claude Code alternative
-- Budget-friendly option with asymmetrically cheaper pricing
-- Good performance for the price point
+- GLM 4.7 - Claude alternative, almost as good.
+- asymmetrically cheaper pricing
 
 ### [linear.app](https://linear.app/)
 **Modern Issue Tracking & Project Management**
 - Fast, minimalist project management tool designed for software teams
 - Keyboard-first navigation with real-time sync
-- Integrates seamlessly with GitHub, GitLab, Figma, and Slack
+- Integrates with GitHub, GitLab, Figma, and Slack
 - Opinionated workflow reduces decision fatigue
 - Popular among startups and high-performing engineering teams
 
@@ -56,12 +54,13 @@ Interesting new projects and tools worth exploring.
 
 ### [cloudflare.com](https://www.cloudflare.com/)
 **Global Cloud Platform & CDN**
-- Traditional CDN, security, and performance services
+- Fundamentally a Reverse proxy based global CDN,DDOS, WAF provide. Unlike say AWS Cloudfront which is basically a distributed file system. 
 - **Storage Solutions**: R2 object storage (S3-compatible), Workers KV (key-value), Durable Objects (stateful storage)
 - **Data Engineering**: D1 SQLite database, Analytics Engine (time-series), Vectorize (vector search), Pipelines (streaming ingestion)
 - **Compute Solutions**: Cloudflare Workers (10ms CPU limit free, 50ms paid), Pages (static sites), Queues (background jobs), **Containers** (full Docker support, launched 2025)
 - Global edge network with 300+ locations worldwide
 - Competitive pricing with zero egress fees on storage
+- Also checkout Akamai which is the same space but not as popular as Cloudflare.
 
 ### [fly.io](https://fly.io/)
 **Edge Computing Platform**
@@ -75,7 +74,7 @@ Interesting new projects and tools worth exploring.
 
 ### [oracle.com/cloud](https://www.oracle.com/cloud/)
 **Oracle Cloud Infrastructure (OCI)**
-- Competitive pricing: 50% less compute, 70% less storage, 80% less networking vs competitors
+- Competitive pricing in mostly everything.
 - **Generous egress**: 10TB/month free data transfer (vs 100GB on AWS/GCP)
 - **Always Free tier**: ARM instances,One tiny AMD x86 instance, Autonomous Database, block storage under always free tier
 - Consistent global pricing across all regions
