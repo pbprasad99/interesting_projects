@@ -1,6 +1,6 @@
 # Interesting Projects
 
-Interesting tools, services, and projects worth exploring. 
+Tools, services, and projects worth exploring. 
 
 ## 🚀 Development Tools
 
