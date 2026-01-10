@@ -1,4 +1,4 @@
-# Interesting Projects
+# Awesome Tools
 
 Tools, services, and projects worth exploring. 
 
