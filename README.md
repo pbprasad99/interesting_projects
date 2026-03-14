@@ -22,7 +22,7 @@ Tools, services, and projects worth exploring.
 - Opinionated workflow reduces decision fatigue
 - Popular among startups and high-performing engineering teams
 
-### [servBay](servebay.com)
+### [servBay](https://servebay.com)
 **Local Infrastructure Control Center**
 - Avoid creating multiple docker images for local development
 - Run PostgreSQL, Redis, Kafka, and other backend services natively
